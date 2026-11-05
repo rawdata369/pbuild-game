@@ -1,0 +1,17 @@
+name: Feedback or idea
+description: Something you saw on pbuild.space or here, or an idea for the game
+labels: [feedback]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for following Pbuild. There's no public build yet, so this is for feedback on what we've shown and ideas for where it goes.
+  - type: textarea
+    id: what
+    attributes:
+      label: What's on your mind?
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Which screenshot, section or feature is it about? (optional)

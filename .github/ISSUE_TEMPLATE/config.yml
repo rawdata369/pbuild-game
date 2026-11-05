@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and general chat
+    url: https://github.com/rawdata369/pbuild-game/discussions
+    about: Ask anything about Pbuild or just say hi.
+  - name: pbuild.space
+    url: https://pbuild.space
+    about: The game's site, with the full roadmap.
