@@ -21,27 +21,31 @@ Pbuild is a first-person game about building planets and exploring them. You are
 Work-in-progress captures from the current build. Not final art.
 
 <p>
-  <img src="media/build-bellows-below.jpg" width="49%" alt="Last Lantern from beneath, her heart's plume burning down out of the ship">
-  <img src="media/build-bellows-arrive.jpg" width="49%" alt="The Bellows, at the Axis's very foot">
+  <img src="media/build-flying-down.jpg" width="49%" alt="Flying Elizabeth down into a living world from orbit">
+  <img src="media/build-sea-sky.jpg" width="49%" alt="Low over its sea, the water reflecting the sky and the clouds">
 </p>
 <p>
-  <img src="media/build-ground-30km.jpg" width="49%" alt="A world's ground, drawn as you come down to it">
-  <img src="media/build-spoken-columns.jpg" width="49%" alt="The Spoken Hall's columns, gold words climbing into the dark">
+  <img src="media/build-overcast.jpg" width="49%" alt="Under the overcast, its ground fading into the world&#39;s own haze">
+  <img src="media/build-sea-dusk.jpg" width="49%" alt="The same sea at dusk, the sun low under the clouds">
 </p>
 <p>
-  <img src="media/forge-dials.jpg" width="49%" alt="Writing a world at the Forge's console">
+  <img src="media/build-ground-30km.jpg" width="49%" alt="A world&#39;s ground, drawn as you come down to it">
+  <img src="media/build-bellows-below.jpg" width="49%" alt="Last Lantern from beneath, her heart&#39;s plume burning down out of the ship">
+</p>
+<p>
+  <img src="media/build-bellows-arrive.jpg" width="49%" alt="The Bellows, at the Axis&#39;s very foot">
+  <img src="media/build-bellows-ribs.jpg" width="49%" alt="The Bellows&#39; ribs, and the tablets of ancient words between them">
+</p>
+<p>
+  <img src="media/forge-dials.jpg" width="49%" alt="Writing a world at the Forge&#39;s console">
   <img src="media/forge-answer.jpg" width="49%" alt="The Forge answering a world just spoken">
 </p>
 <p>
-  <img src="media/build-echo-footprints.jpg" width="49%" alt="Elizabeth's echo, walking the Long Hall in her own footprints">
+  <img src="media/build-spoken-columns.jpg" width="49%" alt="The Spoken Hall&#39;s columns, gold words climbing into the dark">
   <img src="media/build-long-hall-fight.jpg" width="49%" alt="A fight in the Long Hall">
 </p>
 <p>
   <img src="media/hushed-unbind.jpg" width="49%" alt="Unbind lands on a Hushed Mender">
-  <img src="media/build-chat.jpg" width="49%" alt="One chat: Ashvek's words kept as he speaks them">
-</p>
-<p>
-  <img src="media/build-bellows-ribs.jpg" width="49%" alt="The Bellows' ribs, and the tablets of ancient words between them">
   <img src="media/world-near-watch.jpg" width="49%" alt="A world you spoke, filling the Observatory">
 </p>
 
@@ -51,9 +55,9 @@ An early build runs on Windows PC, with mouse and keyboard or an Xbox controller
 - **The Forge**: write a world at the console and watch its gravity, warmth, seas, ice and clouds follow every dial. Speak it, and it lives its first thousand million years on the hologram until the Keepers answer: it *remains*, it is *slipping*, or it is *unspoken*
 - **Worlds seen from space**: coasts, ranges, seas and weather from each world's own physics, under a sky of real stars. A world that lives is really out there, and the ship crosses to it
 - **Last Lantern**: walk its halls as a cloaked Wright, from the Cradle and the Observatory to the Hangar, the Spoken Hall and the Bellows far below
-- **Elizabeth**, the Vaelin's patched ship: mend her, then fly her out through the Hangar's gate as a real spacecraft and bring her home
+- **Elizabeth**, the Vaelin's patched ship: mend her, fly her out through the Hangar's gate as a real spacecraft, and jump on her stride, an old Anvari hyperdrive, to an orbit round any of your worlds in a few heartbeats
 - **The opening act**: quests from Ashvek, the ship's damaged Warden, the first fights against the Hushed, a pack, levels, and your own account with up to ten named Wrights
-- **The first ground**: come down to a world and its hills, valleys and crags are drawn around you
+- **Flying down to a world**: from orbit to low over its ground in one smooth flight, the ground wearing the same texture you saw from above, its mountains at their true height, fading into the world's own haze. Over a living world, clouds reach all the way to you, an overcast above and a whiteout as you fly through, and its seas lie flat and reflect the sky. Landing and walking on it come next
 
 ## Roadmap
 | Phase | Status |
