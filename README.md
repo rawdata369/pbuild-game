@@ -21,20 +21,20 @@ Pbuild is a first-person game about building planets and exploring them. You are
 Work-in-progress captures from the current build. Not final art.
 
 <p>
+  <img src="media/build-drive-over-sea.jpg" width="49%" alt="Elizabeth&#39;s drives burning low over a living world&#39;s sea">
   <img src="media/build-flying-down.jpg" width="49%" alt="Flying Elizabeth down into a living world from orbit">
+</p>
+<p>
   <img src="media/build-sea-sky.jpg" width="49%" alt="Low over its sea, the water reflecting the sky and the clouds">
-</p>
-<p>
   <img src="media/build-overcast.jpg" width="49%" alt="Under the overcast, its ground fading into the world&#39;s own haze">
+</p>
+<p>
   <img src="media/build-sea-dusk.jpg" width="49%" alt="The same sea at dusk, the sun low under the clouds">
-</p>
-<p>
   <img src="media/build-ground-30km.jpg" width="49%" alt="A world&#39;s ground, drawn as you come down to it">
-  <img src="media/build-bellows-below.jpg" width="49%" alt="Last Lantern from beneath, her heart&#39;s plume burning down out of the ship">
 </p>
 <p>
+  <img src="media/build-bellows-below.jpg" width="49%" alt="Last Lantern from beneath, her heart&#39;s plume burning down out of the ship">
   <img src="media/build-bellows-arrive.jpg" width="49%" alt="The Bellows, at the Axis&#39;s very foot">
-  <img src="media/build-bellows-ribs.jpg" width="49%" alt="The Bellows&#39; ribs, and the tablets of ancient words between them">
 </p>
 <p>
   <img src="media/forge-dials.jpg" width="49%" alt="Writing a world at the Forge&#39;s console">
@@ -57,7 +57,7 @@ An early build runs on Windows PC, with mouse and keyboard or an Xbox controller
 - **Last Lantern**: walk its halls as a cloaked Wright, from the Cradle and the Observatory to the Hangar, the Spoken Hall and the Bellows far below
 - **Elizabeth**, the Vaelin's patched ship: mend her, fly her out through the Hangar's gate as a real spacecraft, and jump on her stride, an old Anvari hyperdrive, to an orbit round any of your worlds in a few heartbeats
 - **The opening act**: quests from Ashvek, the ship's damaged Warden, the first fights against the Hushed, a pack, levels, and your own account with up to ten named Wrights
-- **Flying down to a world**: from orbit to low over its ground in one smooth flight, the ground wearing the same texture you saw from above, its mountains at their true height, fading into the world's own haze. Over a living world, clouds reach all the way to you, an overcast above and a whiteout as you fly through, and its seas lie flat and reflect the sky. Landing and walking on it come next
+- **Flying down to a world**: from orbit to low over its ground in one smooth flight, the ground wearing the same texture you saw from above, its mountains at their true height, fading into the world's own haze. Over a living world, clouds reach all the way to you, an overcast above and a whiteout as you fly through, and its seas lie flat and reflect the sky. Its air slows *Elizabeth*, she hovers level and sets down on her legs on any land, and you step out onto the world's own ground under its gravity; your landing is kept in your save. Walking far across a world, and seas that move like water, come next
 
 ## Roadmap
 | Phase | Status |
