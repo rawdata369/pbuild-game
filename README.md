@@ -21,20 +21,20 @@ Pbuild is a first-person game about building planets and exploring them. You are
 Work-in-progress captures from the current build. Not final art.
 
 <p>
-  <img src="media/build-drive-over-sea.jpg" width="49%" alt="Elizabeth&#39;s drives burning low over a living world&#39;s sea">
-  <img src="media/build-flying-down.jpg" width="49%" alt="Flying Elizabeth down into a living world from orbit">
+  <img src="media/build-elizabeth-night.jpg" width="49%" alt="Elizabeth on a world at night, her floodlights and mast lighting the ground round her">
+  <img src="media/build-cabin.jpg" width="49%" alt="Her cabin, an early build, opening into her cockpit">
 </p>
 <p>
-  <img src="media/build-sea-sky.jpg" width="49%" alt="Low over its sea, the water reflecting the sky and the clouds">
+  <img src="media/build-one-hull.jpg" width="49%" alt="One hull from her cockpit to her drives, on her berth in the Hangar">
+  <img src="media/build-drive-over-sea.jpg" width="49%" alt="Elizabeth&#39;s drives burning low over a living world&#39;s sea">
+</p>
+<p>
+  <img src="media/build-flying-down.jpg" width="49%" alt="Flying Elizabeth down into a living world from orbit">
   <img src="media/build-overcast.jpg" width="49%" alt="Under the overcast, its ground fading into the world&#39;s own haze">
 </p>
 <p>
   <img src="media/build-sea-dusk.jpg" width="49%" alt="The same sea at dusk, the sun low under the clouds">
-  <img src="media/build-ground-30km.jpg" width="49%" alt="A world&#39;s ground, drawn as you come down to it">
-</p>
-<p>
   <img src="media/build-bellows-below.jpg" width="49%" alt="Last Lantern from beneath, her heart&#39;s plume burning down out of the ship">
-  <img src="media/build-bellows-arrive.jpg" width="49%" alt="The Bellows, at the Axis&#39;s very foot">
 </p>
 <p>
   <img src="media/forge-dials.jpg" width="49%" alt="Writing a world at the Forge&#39;s console">
@@ -57,7 +57,8 @@ An early build runs on Windows PC, with mouse and keyboard or an Xbox controller
 - **Last Lantern**: walk its halls as a cloaked Wright, from the Cradle and the Observatory to the Hangar, the Spoken Hall and the Bellows far below
 - **Elizabeth**, the Vaelin's patched ship: mend her, fly her out through the Hangar's gate as a real spacecraft, and jump on her stride, an old Anvari hyperdrive, to an orbit round any of your worlds in a few heartbeats
 - **The opening act**: quests from Ashvek, the ship's damaged Warden, the first fights against the Hushed, a pack, levels, and your own account with up to ten named Wrights
-- **Flying down to a world**: from orbit to low over its ground in one smooth flight, the ground wearing the same texture you saw from above, its mountains at their true height, fading into the world's own haze. Over a living world, clouds reach all the way to you, an overcast above and a whiteout as you fly through, and its seas lie flat and reflect the sky. Its air slows *Elizabeth*, she hovers level and sets down on her legs on any land, and you step out onto the world's own ground under its gravity; your landing is kept in your save. Walking far across a world, and seas that move like water, come next
+- **Flying down to a world**: from orbit to low over its ground in one smooth flight, the ground wearing the same texture you saw from above, its mountains at their true height, fading into the world's own haze. Over a living world, clouds reach all the way to you, an overcast above and a whiteout as you fly through, and its seas lie flat and reflect the sky. Its air slows *Elizabeth*, she hovers level and sets down on her legs on any land, and you step out onto the world's own ground under its gravity; your landing is kept in your save. Walk as far as you like, the ground solid under you for kilometres, and call her home from the Hangar if you left her out there
+- **Living aboard *Elizabeth***, an early build: she is one hull from her cockpit to her drives, with a cabin to walk and live in, bunks, a galley and a workroom aft, and a cockpit you walk into. A console on her wall works her door, her floodlights and the mast on her roof, which light the ground round her as night falls. Resting in a bunk until dawn, lockers that hold what you gather, and seas that move like water come next
 
 ## Roadmap
 | Phase | Status |
